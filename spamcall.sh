@@ -30,9 +30,9 @@ then
 clear
 pkg install git
 pkg install figlet
-git clone https://github.com/ClayHackerTeam/prankers
-cd prankers
-sh prankers.sh
+git clone https://github.com/CyberSCT/spamcall
+cd spamcall
+sh spamcall.sh
 fi
 
 if [ $nomor = 2 ] || [ $nomor = 02 ]
